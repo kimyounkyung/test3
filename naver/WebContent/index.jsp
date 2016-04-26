@@ -7,12 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-test
-<h2>second</h2>
-
-<h2>thrid</h2>
-
-<h2>ajdskfhajkdfad</h2>
+<h2>fix</h2>
 
 </body>
 </html>
